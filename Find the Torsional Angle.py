@@ -26,7 +26,6 @@ class Points(object):
         return Points(x, y, z)
 
 # Class 2 - Find the Torsional Angle in Python - HackerRank Solution END
-    
     def absolute(self):
         return pow((self.x ** 2 + self.y ** 2 + self.z ** 2), 0.5)
 
