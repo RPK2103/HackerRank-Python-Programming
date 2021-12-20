@@ -5,6 +5,7 @@ if __name__ == '__main__':
     n = int(input())
     output = [];
     abc = [];
+    
     for X in range(x+1):
         for Y in range(y+1):
             for Z in range(z+1):
